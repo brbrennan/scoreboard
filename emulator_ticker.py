@@ -64,13 +64,13 @@ filter_teams = []       # e.g. ["BOS", "TOR"] or [] for all
 # Edit my_teams with the teams you want to follow PER LEAGUE.
 # Leave a league's list empty [] to see all teams in that league.
 my_teams = {
-    "nhl": ["BOS", "NYR"],
-    "nba": [],
-    "nfl": [],
-    "mlb": [],
-    "cfb": [],
-    "cbb": [],
-    "chk": [],
+    "nhl": ["BOS"],
+    "nba": ["BOS"],
+    "nfl": ["NE"],
+    "mlb": ["BOS"],
+    "cfb": ["BC"],
+    "cbb": ["BC"],
+    "chk": ["BC"],
 }
 
 league_modes = [
